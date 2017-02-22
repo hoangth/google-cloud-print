@@ -7,16 +7,12 @@
             "email": "hoangscp@gmail.com"
         }
     ],
-    "support": {
-        "issues": "",
-        "source": ""
-    },
     "require": {
         "php": ">=5.3.4"
     },
     "autoload": {
         "psr-4": {
-            "Hoangth\\Gcp":"src/"
+            "Hoangth\\Gcp\\":"src/"
         }
     }
 }
